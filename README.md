@@ -29,7 +29,7 @@
 - Compression and Jobs
 - Availability of PostgreSQL tools and ecosystem
 
-## Why PostgreSQL
+## Why PostgreSQL?
 
 - Battle-tested, scalable, fast, store anything
 - Power of SQL, Aggregate, JOIN, on existing business data, triggers, relations
@@ -38,3 +38,15 @@
 - Can store JSON documents (eg. API response)
 - Fully open-source, not owned by publicly traded company
 - Used by many of the most successful companies.
+
+## Why PostgreSQL?
+
+- Get TimeScaleDB up and running with docker
+- Populate a few tables with stock price data, we'll use ARK funds
+- Use analytics functions like first(), last(), histogram(), time_bucket(), locf()
+- Use features like continuous aggregates and retention policies
+- Build a few simple FastAPI (+Tradekit) endpoints to serve our data as an API
+- Use SQL to calculate some indicators and find chart patterns in data
+- Use PostgreSQL stored procedures to create user-defined functions
+- Plotly Dash, Data Visualization
+- Crypto Edition of all of this
