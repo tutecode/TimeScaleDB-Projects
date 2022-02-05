@@ -14,4 +14,4 @@
 
 - 260% higher insert performance, up to 54x faster queries, and simpler implementation when using TimeScaleDB vs MongoDB for time-series data.
 - Better Data Model, Query Language, and Reliability
- -https://blog.timescale.com/blog/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877/#:~:text=In%20our%20benchmark%2C%20TimescaleDB%20demonstrates,InfluxDB%20for%20high%2Dend%20scenarios. 
+    - https://blog.timescale.com/blog/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877/#:~:text=In%20our%20benchmark%2C%20TimescaleDB%20demonstrates,InfluxDB%20for%20high%2Dend%20scenarios. 
